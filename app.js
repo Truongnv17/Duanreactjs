@@ -1,4 +1,4 @@
-var name = "javascript";
+var name = "javascript HTML";
 var price = 1000;
 var course = {
   name: name,
